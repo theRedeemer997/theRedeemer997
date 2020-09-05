@@ -14,9 +14,9 @@
 - ⚡ Fun fact: I love biriyani.
 
 
-👔 [linkedin][linkedin]
+👔 [linkedin][linkedin] **|** 
 🐦 [twitter][twitter] **|** 
-📷 [instagram][instagram] **|** 
+📷 [instagram][instagram]
 
 
 
