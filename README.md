@@ -13,11 +13,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love biriyani.
 
-🏡 [website][website] **|** 
+
 🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-🎥 [twitch][twitch] **|** 
-📦 [npm][npm] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
