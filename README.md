@@ -14,14 +14,16 @@
 - ⚡ Fun fact: I love biriyani.
 
 
+👔 [linkedin][linkedin]
 🐦 [twitter][twitter] **|** 
 📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
 
 
+
+[linkedin]: https://www.linkedin.com/in/i-am-manumathew/
 [twitter]: https://twitter.com/ManuMat55127213
 [instagram]: https://www.instagram.com/manumathew__97/
-[linkedin]: https://www.linkedin.com/in/i-am-manumathew/
+
 
 
 
