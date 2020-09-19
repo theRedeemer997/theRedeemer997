@@ -3,7 +3,7 @@
 ### I'm a developer and a competitive programmer.
 
 
-- 🔭 I’m currently working on a news website.
+- 🔭 I’m currently working on my new flask project.
 - 🌱 I’m currently learning bash scripting and JS.
 - 🔲 Competitive Programmer: [HackerRank- @manumathew](https://www.hackerrank.com/manu1997) 
 - 👯 I’m looking to collaborate on creating wonderful projects.
