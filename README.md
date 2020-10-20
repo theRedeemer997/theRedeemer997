@@ -2,6 +2,8 @@
 
 ### I'm a developer and a competitive programmer.
 
+<img align="center" alt="Code gif" src="coding-freak.gif" width="100%" />
+
 
 - 🔭 I’m currently working on my new flask project.
 - 🌱 I’m currently learning bash scripting and JS.
