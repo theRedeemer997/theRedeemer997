@@ -22,7 +22,6 @@
 [linkedin]: https://www.linkedin.com/in/i-am-manumathew/
 [twitter]: https://twitter.com/ManuMat55127213
 [instagram]: https://www.instagram.com/manumathew__97/
-[![HitCount](http://hits.dwyl.com/Augustine97/Augustine97.svg)](http://hits.dwyl.com/Augustine97/Augustine97)
 
 
 
