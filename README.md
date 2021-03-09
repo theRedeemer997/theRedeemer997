@@ -8,7 +8,7 @@
 - 🔭 I love connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries.
 - 👯 I’m looking to collaborate on creating wonderful projects.
 - 💬 Ask me about flask framework, SQLAlchemy, tailwind or any tech related stuffs.
-- 📫 How to reach me:[Linkedin- @i'manu](https://www.linkedin.com/in/i-am-manumathew/) , [Twitter- @manu](https://twitter.com/ManuMat55127213)
+- 📫 How to reach me:[Linkedin- @i'manu](https://www.linkedin.com/in/i-am-manumathew/) 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love biriyani.
 
