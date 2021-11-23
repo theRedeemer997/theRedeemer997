@@ -9,8 +9,9 @@
 - 👯 I’m looking to collaborate on creating wonderful projects.
 - 💬 Ask me about flask framework, SQLAlchemy, tailwind or any tech related stuffs.
 - 📫 How to reach me:[Linkedin- @i'manu](https://www.linkedin.com/in/i-am-manumathew/) 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love biriyani.
+
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Augustine97&show_icons=true&theme=radical)
 
 
 👔 [linkedin][linkedin] **|** 
@@ -22,6 +23,9 @@
 [linkedin]: https://www.linkedin.com/in/i-am-manumathew/
 [twitter]: https://twitter.com/ManuMat55127213
 [instagram]: https://www.instagram.com/manumathew__97/
+
+
+
 
 
 
