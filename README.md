@@ -11,7 +11,9 @@
   <a href= "https://www.linkedin.com/in/i-am-manumathew/">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
   </a>
- <a href="https://icons8.com/icon/OUPsEPLKIebZ/hackerrank"></a>
+ <a href="https://www.hackerrank.com/manu1997">
+   <img src="https://img.icons8.com/windows/50/000000/hackerrank.png" width="3%" height="1%"/>
+  </a>
  <!--  <a href= "https://twitter.com/tallguyjenks">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/twitter.png"/>
   </a>
@@ -39,8 +41,6 @@
   <a href="https://stackoverflow.com/users/12339658/tallguyjenks">
     <img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/>
   </a> -->
-
-  
 </p>
 
   <p align = "center">
@@ -49,10 +49,10 @@
 
 
 
-- 🔲 Passionate Thinker | Competitive Programmer: [HackerRank- @manumathew](https://www.hackerrank.com/manu1997) 
+<!-- - 🔲 Passionate Thinker | Competitive Programmer: [HackerRank- @manumathew](https://www.hackerrank.com/manu1997) 
 - 🔭 I love connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries.
 - 👯 I’m looking to collaborate on creating wonderful projects.
-- 💬 Ask me about flask framework, SQLAlchemy, tailwind or any tech related stuffs. 
+- 💬 Ask me about flask framework, SQLAlchemy, tailwind or any tech related stuffs.  -->
 <details>
  <summary>My GitHub stats</summary>
  <p align = "center">
