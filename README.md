@@ -43,7 +43,7 @@
     <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
   </a>
  <a href="https://www.hackerrank.com/manu1997">
-   <img src="https://img.icons8.com/windows/50/000000/hackerrank.png" width="3%" height="5%"/>
+   <img src="https://user-images.githubusercontent.com/28197642/145268499-e179ec06-f07d-43f7-8a64-91e3edfbfd31.png" width="3%" height="4%"/>
   </a>
  <!--  <a href= "https://twitter.com/tallguyjenks">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/twitter.png"/>
