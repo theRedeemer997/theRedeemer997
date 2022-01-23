@@ -56,7 +56,7 @@
 
 <img src="./asssets/200w.gif" width="15">&nbsp;**`- Version Control System`**
 <br>
-<img src="./asssets/github.png" width="45">&nbsp;<img src="./asssets/bitbucket.png" width="50">&nbsp;
+<img src="./asssets/github.png" width="30">&nbsp;<img src="./asssets/bitbucket.png" width="30">&nbsp;
 
 <details>
  <summary>My GitHub stats&nbsp;<img src="./asssets/stats.gif" width="25"></summary>
