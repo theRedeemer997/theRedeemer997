@@ -44,7 +44,7 @@
 <br>
 **```- Back-end technologies```**
 <br>
-<img src="./asssets/java.gif" width="55">
+<img src="./asssets/java.gif" width="55">&nbsp;<img src="./asssets/springboot.png" width="35">&nbsp;<img src="./asssets/jpa.png" width="45">&nbsp;
 
 <details>
  <summary>My GitHub stats&nbsp;<img src="./asssets/stats.gif" width="25"></summary>
