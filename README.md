@@ -2,8 +2,8 @@
 <img align="right" alt="Code gif" src="./asssets/Designer.gif" width="190" height="150" />
 
 <!-- Salutation -->
-### <img src="./asssets/Hi.gif" width="29px">&nbsp;&nbsp;**Hello World**&nbsp;&nbsp;<img src="./asssets/Earth.gif" width="29px">
 
+### <img src="./asssets/Hi.gif" width="29px">&nbsp;&nbsp;**Hello World**&nbsp;&nbsp;<img src="./asssets/Earth.gif" width="29px">
 
 <br>
 <!-- Introduction -->
@@ -13,7 +13,7 @@
 
 <!-- About Me Section starts -->
 
-### **``` About Me```** 🚀
+### **` About Me`** 🚀
 
 <p><em><img src="./asssets/Rocket.gif" width="20">&nbsp;&nbsp;I’m a <strong>Front-end developer</strong><img src="./asssets/Developer.gif" width="29">&nbsp;with&nbsp;<strong> B.E.</strong><img src="./asssets/graduate.gif" width="30">&nbsp;in&nbsp;<strong>Computer Science And Engineering</strong> from Visvesvaraya Technological University, Bangalore. </em></p>
 
@@ -28,7 +28,8 @@
 
 <!-- My Experiences Section starts -->
 
-### **``` My Experiences```** 🚀
+### **` My Experiences`** 🚀
+
 - [Assistant Systems Engineer (Tata Consultancy Services)](https://www.tcs.com/) - (Nov'21 - Present)
 - [Assistant Systems Engineer -Trainee (Tata Consultancy Services)](https://www.tcs.com/) - (Nov'20 - Nov'21)
 
@@ -36,24 +37,26 @@
 
 <!-- Proficient in Section starts -->
 
-### **```Proficient in:```** 🚀
+### **`Proficient in:`** 🚀
 
-**```- Front-end technologies```**
+**`- Front-end technologies`**
 <br>
 <img src="./asssets/html5.gif" width="35">&nbsp;<img src="./asssets/css3.png" width="35">&nbsp;<img src="./asssets/JS.gif" width="35">&nbsp;<img src="./asssets/Bootstrap.gif" width="35">&nbsp;<img src="./asssets/Angular.gif" width="35">&nbsp;<img src="./asssets/jasmine.png" width="35">
 <br>
 
-**```- Back-end technologies```**
+**`- Back-end technologies`**
 <br>
 <img src="./asssets/java.gif" width="55">&nbsp;<img src="./asssets/springboot.png" width="35">&nbsp;<img src="./asssets/jpa.png" width="45">&nbsp;<img src="./asssets/spring-security.png" width="35">&nbsp;<img src="./asssets/springrest-modified.png" width="55">&nbsp;<img src="./asssets/junit5-1.png" width="40">&nbsp;<img src="./asssets/mockito.png" width="60">&nbsp;
 <br>
 
-**```- Database```**
+**`- Database`**
 <br>
-<img src="./asssets/mysql.png" width="45">&nbsp;<img src="./asssets/postgresql.png" width="45">&nbsp;
+<img src="./asssets/mysql.png" width="45">&nbsp;&nbsp;<img src="./asssets/postgresql.png" width="45">&nbsp;
 <br>
 
-
+**`- Version Control System`**
+<br>
+<img src="./asssets/github.png" width="45">&nbsp;<img src="./asssets/bitbucket.png" width="50">&nbsp;
 
 <details>
  <summary>My GitHub stats&nbsp;<img src="./asssets/stats.gif" width="25"></summary>
