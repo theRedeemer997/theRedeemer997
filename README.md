@@ -10,7 +10,7 @@
   <em>I'm <strong>Manu Mathew</strong></em>&nbsp;&nbsp;<img src="./asssets/Mario_Hello_Big.gif" width="20">
 </p>
 
-**###``` About Me```** 🚀
+### **``` About Me```** 🚀
 
 <p><em><img src="./asssets/Rocket.gif" width="20">&nbsp;&nbsp;I’m a <strong>Front-end developer</strong><img src="./asssets/Developer.gif" width="29">&nbsp;with&nbsp;<strong> B.E.</strong><img src="./asssets/graduate.gif" width="30">&nbsp;in&nbsp;<strong>Computer Science And Engineering</strong> from Visvesvaraya Technological University, Bangalore. </em></p>
 
@@ -43,7 +43,7 @@
 
 <!-- Social Section -->
 <p align="center">
-  <i>Take a look at my repositories and let's get in touch!&nbsp;<img src="./asssets/Handshake.gif" width="35"></i>
+  <i>Take a look at my repositories and let's get in touch!<img src="./asssets/Handshake.gif" width="50"></i>
 
 <p align="center">
   <a href= "https://github.com/Augustine97">
