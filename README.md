@@ -1,39 +1,49 @@
-### Hi there, I'm Manu. 👋
+<img align="right" alt="Code gif" src="./asssets/Designer.gif" width="190" height="150" />
 
+### <img src="./asssets/Hi.gif" width="29px">&nbsp;&nbsp;**Hello World**&nbsp;&nbsp;<img src="./asssets/Earth.gif" width="29px">
 
-  <p align = "center">
-  <img align="center" alt="Code gif" src="coding-freak.gif" width="70%" height="50%" />
- </p>
+## <!--  I'm Manu Mathew.  -->
 
-<!-- - 🔲 Passionate Thinker | Competitive Programmer: [HackerRank- @manumathew](https://www.hackerrank.com/manu1997)  -->
+<br>
+
+<p>
+  <em>I'm <strong>Manu Mathew</strong></em>&nbsp;&nbsp;<img src="./asssets/Mario_Hello_Big.gif" width="20">
+</p>
+
+**###``` About Me```** 🚀
+
+<p><em><img src="./asssets/Rocket.gif" width="20">&nbsp;&nbsp;I’m a <strong>Front-end developer</strong><img src="./asssets/Developer.gif" width="29">&nbsp;with&nbsp;<strong> B.E.</strong><img src="./asssets/graduate.gif" width="30">&nbsp;in&nbsp;<strong>Computer Science And Engineering</strong> from Visvesvaraya Technological University, Bangalore. </em></p>
+
+<p><em><img src="./asssets/Rocket.gif" width="20">&nbsp;&nbsp;I am passionate about Web Dev & I enjoy learning new technologies. </em></p></br>
+
+<!-- - 🔲 Passionate Thinker | Competitive Programmer: [HackerRank- @manumathew](https://www.hackerrank.com/manu1997)
 - 🔭 I love connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries.
 - 👯 I’m looking to collaborate on creating wonderful projects.
-<!-- - 💬 Ask me about flask framework, SQLAlchemy, tailwind or any tech related stuffs.  -->
-<hr>
+- 💬 Ask me about flask framework, SQLAlchemy, tailwind or any tech related stuffs.  -->
+
 <details>
- <summary>My GitHub stats</summary>
+ <summary>My GitHub stats&nbsp;<img src="./asssets/stats.gif" width="25"></summary>
  <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Augustine97&show_icons=true&theme=radical">
  </p>
 </details>
 <details>
- <summary>Language Stats</summary>
+ <summary>Language Stats&nbsp;<img src="./asssets/stats.gif" width="25"></summary>
  <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Augustine97&layout=compact)](https://github.com/Augustine97/github-readme-stats">
  </p>
 </details>
 <details>
- <summary>Wakatime Stats</summary>
+ <summary>Wakatime Stats&nbsp;<img src="./asssets/stats.gif" width="25"></summary>
  <p align = "center">
   <img src="https://wakatime.com/share/@a796edc4-becb-4625-b2c8-1fee3fef4a89/aa598ece-71b8-48d4-a4bb-68701b150782.svg" height="400">
  </p>
 </details>
 <hr>
 
-
 <!-- Social Section -->
 <p align="center">
-  <i>Take a look at my repositories and let's get in touch!</i>
+  <i>Take a look at my repositories and let's get in touch!&nbsp;<img src="./asssets/Handshake.gif" width="35"></i>
 
 <p align="center">
   <a href= "https://github.com/Augustine97">
@@ -75,18 +85,3 @@
 </p>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Augustine97.Augustine97)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
