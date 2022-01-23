@@ -41,7 +41,10 @@
 **```- Front-end technologies```**
 <br>
 <img src="./asssets/html5.gif" width="35">&nbsp;<img src="./asssets/css3.png" width="35">&nbsp;<img src="./asssets/JS.gif" width="35">&nbsp;<img src="./asssets/Bootstrap.gif" width="35">&nbsp;<img src="./asssets/Angular.gif" width="35">&nbsp;<img src="./asssets/jasmine.png" width="35">
-
+<br>
+**```- Back-end technologies```**
+<br>
+<img src="./asssets/java.gif" width="55">
 
 <details>
  <summary>My GitHub stats&nbsp;<img src="./asssets/stats.gif" width="25"></summary>
