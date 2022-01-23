@@ -42,9 +42,18 @@
 <br>
 <img src="./asssets/html5.gif" width="35">&nbsp;<img src="./asssets/css3.png" width="35">&nbsp;<img src="./asssets/JS.gif" width="35">&nbsp;<img src="./asssets/Bootstrap.gif" width="35">&nbsp;<img src="./asssets/Angular.gif" width="35">&nbsp;<img src="./asssets/jasmine.png" width="35">
 <br>
+
 **```- Back-end technologies```**
 <br>
-<img src="./asssets/java.gif" width="55">&nbsp;<img src="./asssets/springboot.png" width="35">&nbsp;<img src="./asssets/jpa.png" width="45">&nbsp;
+<img src="./asssets/java.gif" width="55">&nbsp;<img src="./asssets/springboot.png" width="35">&nbsp;<img src="./asssets/jpa.png" width="45">&nbsp;<img src="./asssets/spring-security.png" width="35">&nbsp;<img src="./asssets/springrest-modified.png" width="55">&nbsp;<img src="./asssets/junit5-1.png" width="40">&nbsp;<img src="./asssets/mockito.png" width="60">&nbsp;
+<br>
+
+**```- Database```**
+<br>
+<img src="./asssets/mysql.png" width="45">&nbsp;<img src="./asssets/postgresql.png" width="45">&nbsp;
+<br>
+
+
 
 <details>
  <summary>My GitHub stats&nbsp;<img src="./asssets/stats.gif" width="25"></summary>
