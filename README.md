@@ -1,14 +1,17 @@
+<!-- Main Gif -->
 <img align="right" alt="Code gif" src="./asssets/Designer.gif" width="190" height="150" />
 
+<!-- Salutation -->
 ### <img src="./asssets/Hi.gif" width="29px">&nbsp;&nbsp;**Hello World**&nbsp;&nbsp;<img src="./asssets/Earth.gif" width="29px">
 
-## <!--  I'm Manu Mathew.  -->
 
 <br>
-
+<!-- Introduction -->
 <p>
   <em>I'm <strong>Manu Mathew</strong></em>&nbsp;&nbsp;<img src="./asssets/Mario_Hello_Big.gif" width="20">
 </p>
+
+<!-- About Me Section starts -->
 
 ### **``` About Me```** 🚀
 
@@ -20,6 +23,25 @@
 - 🔭 I love connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries.
 - 👯 I’m looking to collaborate on creating wonderful projects.
 - 💬 Ask me about flask framework, SQLAlchemy, tailwind or any tech related stuffs.  -->
+
+<!-- About Me Section ends -->
+
+<!-- My Experiences Section starts -->
+
+### **``` My Experiences```** 🚀
+- [Assistant Systems Engineer (Tata Consultancy Services)](https://www.tcs.com/) - (Nov'21 - Present)
+- [Assistant Systems Engineer -Trainee (Tata Consultancy Services)](https://www.tcs.com/) - (Nov'20 - Nov'21)
+
+<!-- My Experiences Section ends -->
+
+<!-- Proficient in Section starts -->
+
+### **```Proficient in:```** 🚀
+
+**```- Front-end technologies```**
+<br>
+<img src="./asssets/html5.gif" width="35">&nbsp;<img src="./asssets/css3.png" width="35">&nbsp;<img src="./asssets/JS.gif" width="35">&nbsp;<img src="./asssets/Bootstrap.gif" width="35">&nbsp;<img src="./asssets/Angular.gif" width="35">&nbsp;<img src="./asssets/jasmine.png" width="35">
+
 
 <details>
  <summary>My GitHub stats&nbsp;<img src="./asssets/stats.gif" width="25"></summary>
