@@ -39,22 +39,22 @@
 
 ### **`Proficient in:`** 🚀
 
-<img src="./asssets/200w.gif" width="15">&nbsp;**`- Front-end technologies`**
+**`- Front-end technologies`**
 <br>
 <img src="./asssets/html5.gif" width="35">&nbsp;<img src="./asssets/css3.png" width="35">&nbsp;<img src="./asssets/JS.gif" width="35">&nbsp;<img src="./asssets/Bootstrap.gif" width="35">&nbsp;<img src="./asssets/Angular.gif" width="35">&nbsp;<img src="./asssets/jasmine.png" width="35">
 <br>
 
-<img src="./asssets/200w.gif" width="15">&nbsp;**`- Back-end technologies`**
+**`- Back-end technologies`**
 <br>
 <img src="./asssets/java.gif" width="55">&nbsp;<img src="./asssets/springboot.png" width="35">&nbsp;<img src="./asssets/jpa.png" width="45">&nbsp;<img src="./asssets/spring-security.png" width="35">&nbsp;<img src="./asssets/springrest-modified.png" width="55">&nbsp;<img src="./asssets/junit5-1.png" width="40">&nbsp;<img src="./asssets/mockito.png" width="60">&nbsp;
 <br>
 
-<img src="./asssets/200w.gif" width="15">&nbsp;**`- Database`**
+**`- Database`**
 <br>
 <img src="./asssets/mysql.png" width="45">&nbsp;&nbsp;<img src="./asssets/postgresql.png" width="45">&nbsp;
 <br>
 
-<img src="./asssets/200w.gif" width="15">&nbsp;**`- Version Control System`**
+**`- Version Control System`**
 <br>
 <img src="./asssets/github.png" width="30">&nbsp;<img src="./asssets/bitbucket.png" width="30">&nbsp;
 
