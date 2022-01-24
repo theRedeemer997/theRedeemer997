@@ -76,6 +76,12 @@
   <img src="https://wakatime.com/share/@a796edc4-becb-4625-b2c8-1fee3fef4a89/aa598ece-71b8-48d4-a4bb-68701b150782.svg" height="400">
  </p>
 </details>
+<details>
+ <summary>Github Streak&nbsp;<img src="./asssets/streak.gif" width="30"></summary>
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Augustine97&theme=dark)](https://git.io/streak-stats)
+ 
+</details>
 <hr>
 
 <!-- Social Section -->
