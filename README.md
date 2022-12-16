@@ -29,8 +29,8 @@
 <!-- My Experiences Section starts -->
 
 ### **` My Experiences`** 🚀
-
-- [Assistant Systems Engineer (Tata Consultancy Services)](https://www.tcs.com/) - (Nov'21 - Present)
+- [Systems Engineer (Tata Consultancy Services)](https://www.tcs.com/) - (Nov'22 - present)
+- [Assistant Systems Engineer (Tata Consultancy Services)](https://www.tcs.com/) - (Nov'21 - Nov'22)
 - [Assistant Systems Engineer -Trainee (Tata Consultancy Services)](https://www.tcs.com/) - (Nov'20 - Nov'21)
 
 <!-- My Experiences Section ends -->
@@ -70,12 +70,12 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Augustine97&layout=compact)](https://github.com/Augustine97/github-readme-stats">
  </p>
 </details>
-<details>
+<!-- <details>
  <summary>Wakatime Stats&nbsp;<img src="./asssets/stats.gif" width="25"></summary>
  <p align = "center">
   <img src="https://wakatime.com/share/@a796edc4-becb-4625-b2c8-1fee3fef4a89/aa598ece-71b8-48d4-a4bb-68701b150782.svg" height="400">
  </p>
-</details>
+</details> -->
 <details>
  <summary>Github Streak&nbsp;<img src="./asssets/streak.gif" width="30"></summary>
 
