@@ -139,10 +139,8 @@ Greetings! <img src="./asssets/Hi.gif" width="29px"> I'm Manu Mathew. I am passi
 
 🚀 I was working as a Front-end engineer at Tata Consultancy Services ( Nov 2020- Feb 2024 ), Bangalore and I have three years working in UI technologies like REACT.
 
-🚀 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theRedeemer997&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=theRedeemer997&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theRedeemer997&theme=gruvbox&show_icons=true&hide_border=true&count_private=true) -->
 
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=theRedeemer997&theme=gruvbox&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=theRedeemer997&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
