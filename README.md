@@ -144,3 +144,5 @@ Greetings! <img src="./asssets/Hi.gif" width="29px"> I'm Manu Mathew. I am passi
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=theRedeemer997&theme=gruvbox&hide_border=true)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=theRedeemer997&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
+
+<img src="https://wakatime.com/share/@018ba22a-403e-473d-bb57-8cd293043149/bbb7ab3e-fa0b-4eda-9d75-10c794723d1e.svg">
