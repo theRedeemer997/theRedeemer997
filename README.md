@@ -150,7 +150,7 @@ Greetings! <img src="./asssets/Hi.gif" width="29px"> I'm Manu Mathew. I am passi
 <!--START_SECTION:waka-->
 
 ```rust
-From: 05 November 2023 - To: 09 January 2025
+From: 05 November 2023 - To: 10 January 2025
 
 Total Time: 418 hrs 12 mins
 
