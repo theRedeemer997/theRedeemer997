@@ -150,15 +150,15 @@ Greetings! <img src="./asssets/Hi.gif" width="29px"> I'm Manu Mathew. I am passi
 <!--START_SECTION:waka-->
 
 ```rust
-From: 05 November 2023 - To: 19 February 2025
+From: 05 November 2023 - To: 20 February 2025
 
-Total Time: 597 hrs 1 min
+Total Time: 599 hrs 20 mins
 
-JavaScript        165 hrs 13 mins >>>>>>-------------------   25.18 %
-TypeScript        125 hrs 47 mins >>>>>--------------------   19.17 %
-EJS               68 hrs 33 mins  >>>----------------------   10.45 %
-C#                61 hrs 18 mins  >>-----------------------   09.34 %
-Other             59 hrs 10 mins  >>-----------------------   09.02 %
+JavaScript        165 hrs 48 mins >>>>>>-------------------   25.18 %
+TypeScript        127 hrs 24 mins >>>>>--------------------   19.35 %
+EJS               68 hrs 33 mins  >>>----------------------   10.41 %
+C#                61 hrs 18 mins  >>-----------------------   09.31 %
+Other             59 hrs 10 mins  >>-----------------------   08.99 %
 ```
 
 <!--END_SECTION:waka-->
